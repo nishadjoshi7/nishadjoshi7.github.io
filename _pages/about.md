@@ -20,16 +20,23 @@ I am a Software Engineer working at [Thirdware Solutions](https://www.thirdware.
 -----
 I completed my Undergraduate Degree in Electronics Engineering from the University of Mumbai - K.J Somaiya College of Engineering in 2019. <br> <br>
 <strong>CGPA:</strong> 7.95/10 <br> 
-<strong>Relevant coursework:</strong> Artificial Intelligence, Machine Learning, Big Data Analytics, Data Warehousing and Mining, Neural Networks and Fuzzy Logic, Image Analysis, Introduction to Business Intelligence, Fundamentals of Programming, Data Structures, Analysis of Algorithms, Operating Systems, Object Oriented Programming, Applied Mathematics <br>
+<strong>Relevant coursework:</strong> Data Communication and Networking, Digital Control System, Image Processing, Mobile Communication, Embedded System Design, Microprocessors and Microcontrollers, Digital Designing, Basic Electronic Circuits, Electrical Networks, Object Oriented Programming, Applied Mathematics <br>
 <br>
 
 # Key Skills
 ----
-* <strong> Programming Languages: </strong> Python, C, C++, Powershell, Maxl, Batch Scripting 
-* <strong> Operating Systems: </strong> Windows, Linux, Ubuntu 
-* <strong> Business Intelligence Tools: </strong> Hyperion Essbase, Hyperion Planning, Hyperion Financial Reporting 
+* <strong> Programming Languages: </strong> Python, C, C++, Powershell, Maxl, Batch Scripting <br>
+* <strong> Operating Systems: </strong> Windows, Linux, Ubuntu <br>
+* <strong> Business Intelligence Tools: </strong> Hyperion Essbase, Hyperion Planning, Hyperion Financial Reporting <br>
 * <strong> Softwares: </strong> MATLAB, LTSpice XVII, Proteus, Eagle <br>
 * <strong> Other Tools: </strong> FDMEE, AutoSys, AccuRev, MS Excel <br>
 * <strong> Soft Skills: </strong> Leadership, Teamwork, Communication skills, Adaptability, Time management <br>
   
+----
+
+# Interests & Hobbies
+----
+* <strong> Interests: </strong> Entrepreneurship, Design Thinking, Zero to One ideas, Investing, Business Analytics, Business Startergies <br>
+* <strong> Hobbies: </strong> Sports, Trekking, Sketching, Guitaring <br>
+
 ----
