@@ -43,7 +43,7 @@ author_profile: true
 #### June 2016 - Septmeber 2017 | Mumbai, India
 
 -----
-* Hosted exhibits from Indian Space Research Organization [(ISRO)](https://www.isro.gov.in/), Defence Research and Development Organization [(DRDO)](https://www.drdo.gov.in/home), Department of Atomic Energy [(DAE)](http://www.dae.gov.in/) and Indian Meterological Department, Mumbai[IMD](http://www.imdmumbai.gov.in/) at the technical symposium of our college
+* Hosted exhibits from Indian Space Research Organization [(ISRO)](https://www.isro.gov.in/), Defence Research and Development Organization [(DRDO)](https://www.drdo.gov.in/home), Department of Atomic Energy [(DAE)](http://www.dae.gov.in/) and Indian Meterological Department, Mumbai [IMD](http://www.imdmumbai.gov.in/) at the technical symposium of our college
 * Hosted speaker sessions of leading scientists like Dr. Rajagopala Chidambaram-Principle scientific advisor to the federal goverenment of India, Dr. Abhas Mitra-Theoretical astrophysicist at BARC and industry stalwarts like Hetal Kotak-CEO of Lee Cooper and Sachin Teke-Founder CEO of M-indicator
 * Organised events such as Internship Expo, Startup Expo and various technical events which saw a 200% increase in the number of participants from the previous year <br>
 
@@ -58,4 +58,5 @@ author_profile: true
 * Used Google Analytics and Facebook Insights to understand the needs of sponsors and participants and saw an increase in the sponsor count from 50 to 75 and the number of particpants from 2500 to 4000 from the previous year
 * Hosted national federations such as the [Wheelchair Basketball Federation of India, WBFI](http://www.wbfi.org.in/) and [Indian Blind Football Federation](http://blindfootball.in/) for exhibition matches
 * We also managed to raise our profits by almost 15% <br>
+
 -----
