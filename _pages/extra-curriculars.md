@@ -28,7 +28,7 @@ author_profile: true
 * Also worked towards beautifying a railway station in Mumbai, India as a part of the [Humara Station Humari Shaan](https://mumbaifirst.org/hamara-station-hamari-shaan/) initiative <br>
 
 -----
-<img align="left" height="100" width="100" src="../images/parvaah.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/KJSCE.png" style="padding-right:15px">
 
 **Vice Captain, KJSCE Volleyball Team**
 #### June 2018 - June 2019 | Mumbai, India
