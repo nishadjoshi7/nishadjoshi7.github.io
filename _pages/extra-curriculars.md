@@ -43,8 +43,8 @@ author_profile: true
 #### June 2016 - Septmeber 2017 | Mumbai, India
 
 -----
-* Hosted exhibits from [Indian Space Research Organization (ISRO)](https://www.isro.gov.in/), [Defence Research and Development Organization (DRDO)](https://www.drdo.gov.in/home), [Department of Atomic Energy (DAE)](http://www.dae.gov.in/) and [Indian Meterological Department, Mumbai](http://www.imdmumbai.gov.in/) at the technical symposium of our college
-* Hosted speaker sessions of leading scientists like Dr. Rajagopala Chidambaram, Principle scientific advisor to the federal goverenment of India, Dr. Abhas Mitra, Theoretical astrophysicist at BARC and industry stalwarts like Hetal Kotak, CEO of Lee Cooper and Sachin Teke, founder-CEO of M-indicator
+* Hosted exhibits from Indian Space Research Organization [(ISRO)](https://www.isro.gov.in/), Defence Research and Development Organization [(DRDO)](https://www.drdo.gov.in/home), Department of Atomic Energy [(DAE)](http://www.dae.gov.in/) and Indian Meterological Department, Mumbai[IMD](http://www.imdmumbai.gov.in/) at the technical symposium of our college
+* Hosted speaker sessions of leading scientists like Dr. Rajagopala Chidambaram-Principle scientific advisor to the federal goverenment of India, Dr. Abhas Mitra-Theoretical astrophysicist at BARC and industry stalwarts like Hetal Kotak-CEO of Lee Cooper and Sachin Teke-Founder CEO of M-indicator
 * Organised events such as Internship Expo, Startup Expo and various technical events which saw a 200% increase in the number of participants from the previous year <br>
 
 -----
