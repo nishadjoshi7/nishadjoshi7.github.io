@@ -12,8 +12,10 @@ author_profile: true
 #### June 2017 - June 2018 | Mumbai, India
 
 -----
-* Was at the helm of all co-curricular and extra-curricular activities, all matters pertaining to logistics, marketing, finance and publicity of various intercollegiate events
+* Led the foremost student body of the institute to organise and manage all the co-curricular and extra-curricular activities for the students 
+* Was at the helm of all matters pertaining to logistics, marketing, finance and publicity of various intercollegiate events
 * Led a team of 40 core committee members and 250+ volunteers to organize national level festivals. viz, Abhiyantriki- Technical festival, Skream- Sports festival and Symphony- Cultural festival
+* Acted as a liaison between administrative staff and the organizing committee
 
 -----
 <img align="left" height="100" width="100" src="../images/parvaah.png" style="padding-right:15px">
