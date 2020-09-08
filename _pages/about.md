@@ -20,7 +20,7 @@ I am a Software Engineer working at [Thirdware Solutions](https://www.thirdware.
 -----
 I completed my Undergraduate Degree in Electronics Engineering from the University of Mumbai - K.J Somaiya College of Engineering in 2019. <br> <br>
 <strong>CGPA:</strong> 7.95/10 <br> 
-<strong>Relevant coursework:</strong> Data Communication and Networking, Digital Control System, Image Processing, Mobile Communication, Embedded System Design, Microprocessors and Microcontrollers, Digital Designing, Basic Electronic Circuits, Electrical Networks, Object Oriented Programming, Applied Mathematics <br>
+<strong>Relevant coursework:</strong> Data Communication and Networking, Digital Control System, Image Processing, Mobile Communication, Embedded System Design, VLSI, Microprocessors and Microcontrollers, Digital Designing, Basic Electronic Circuits, Electrical Networks, Data Structures and Algorithm, Object Oriented Programming, Applied Mathematics <br>
 <br>
 
 # Key Skills
@@ -29,10 +29,8 @@ I completed my Undergraduate Degree in Electronics Engineering from the Universi
 * <strong> Operating Systems: </strong> Windows, Linux, Ubuntu <br>
 * <strong> Business Intelligence Tools: </strong> Hyperion Essbase, Hyperion Planning, Hyperion Financial Reporting <br>
 * <strong> Softwares: </strong> MATLAB, LTSpice XVII, Proteus, Eagle <br>
-* <strong> Other Tools: </strong> FDMEE, AutoSys, AccuRev, MS Excel <br>
+* <strong> Other Tools: </strong> AutoCAD, FDMEE, AutoSys, AccuRev, MS Excel <br>
 * <strong> Soft Skills: </strong> Leadership, Teamwork, Communication skills, Adaptability, Time management <br>
-  
-----
 
 # Interests & Hobbies
 ----
