@@ -18,7 +18,7 @@ author_profile: true
 -----
 <img align="left" height="100" width="100" src="../images/parvaah.png" style="padding-right:15px">
 
-**Team Lead, KJSCE Parvaah**
+**Team Lead, [KJSCE Parvaah](https://www.facebook.com/kjsce.Parvaah/)**
 #### June 2016 - June 2019 | Mumbai, India
 
 -----
@@ -28,7 +28,7 @@ author_profile: true
 * Also worked towards beautifying a railway station in Mumbai, India as a part of the [Humara Station Humari Shaan](https://mumbaifirst.org/hamara-station-hamari-shaan/) initiative <br>
 
 -----
-<img align="left" height="100" width="100" src="../images/KJSCE.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/KJSCE1.png" style="padding-right:15px">
 
 **Vice Captain, KJSCE Volleyball Team**
 #### June 2018 - June 2019 | Mumbai, India
@@ -39,11 +39,22 @@ author_profile: true
 -----
 <img align="left" height="100" width="100" src="../images/abhiyantriki.png" style="padding-right:15px">
 
-**Organizing Committee, KJSCE Abhiyantriki**
-#### June 2017 - Septmeber 2017 | Mumbai, India
+**Organizing Committee, [KJSCE Abhiyantriki](http://kjsce-abhiyantriki.org/)**
+#### June 2016 - Septmeber 2017 | Mumbai, India
 
 -----
 * Hosted exhibits from Indian Space Research Organization (ISRO), Defence Research and Development Organization (DRDO) and Department of Atomic Energy (DAE) at the technical symposium of our college
 * Organised events such as Internship Expo, Startup Expo and various technical events which saw a 200% increase in the number of participants from the previous year <br>
 
+-----
+<img align="left" height="100" width="100" src="../images/skream.jpg" style="padding-right:15px">
+
+**Organizing Committee, [KJSCE Skream](https://kjsce-skream.org/)**
+#### June 2016 - Septmeber 2018 | Mumbai, India
+
+-----
+* Organised KJSCE Skream - National Level Sports festival comprising of 14 various sporting events conducted throughout the 5 days
+* Used Google Analytics and Facebook Insights to understand the needs of sponsors and participants and saw an increase in the sponsor count from 50 to 75 and the number of particpants from 2500 to 4000 from the previous year
+* Hosted national federations such as the [Wheelchair Basketball Federation of India, WBFI](http://www.wbfi.org.in/) and [Indian Blind Football Federation](http://blindfootball.in/) for exhibition matches
+* We also managed to raise our profits by almost 15% <br>
 -----
