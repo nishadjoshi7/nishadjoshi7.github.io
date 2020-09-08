@@ -25,9 +25,9 @@ I completed my Undergraduate Degree in Electronics Engineering from the Universi
 
 # Key Skills
 ----
-* <strong> Programming Languages: </strong> Python, C, C++, Powershell, Maxl, Batch Scripting <br>
-* <strong> Operating Systems: </strong> Windows, Linux, Ubuntu <br>
-* <strong> Business Intelligence Tools: </strong> Hyperion Essbase, Hyperion Planning, Hyperion Financial Reporting <br>
+* <strong> Programming Languages: </strong> Python, C, C++, Powershell, Maxl, Batch Scripting 
+* <strong> Operating Systems: </strong> Windows, Linux, Ubuntu 
+* <strong> Business Intelligence Tools: </strong> Hyperion Essbase, Hyperion Planning, Hyperion Financial Reporting 
 * <strong> Softwares: </strong> MATLAB, LTSpice XVII, Proteus, Eagle <br>
 * <strong> Other Tools: </strong> FDMEE, AutoSys, AccuRev, MS Excel <br>
 * <strong> Soft Skills: </strong> Leadership, Teamwork, Communication skills, Adaptability, Time management <br>
