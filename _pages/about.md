@@ -1,13 +1,15 @@
 ---
 permalink: /
 title: "Nishad S. Joshi"
-excerpt: "About me"
+excerpt: "Nishad S. Joshi"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+# About Me
+-----
 I am a Software Engineer working at [Thirdware Solutions](https://www.thirdware.com/index.html) in the Business Intillegence Domain. I have a Bachelor in Technology (B.Tech) degree in Electronics Engineering from the University of Mumbai - [K.J Somaiya College of Engineering](https://kjsce.somaiya.edu/en), India. I am keenly interested in Business Strategies, Zero to One ideas and Entrepreneurship. I bring to the table a blend of technical, aptitude and problem-solving skills. I am also a huge sports fanatic and a trekking enthusiast.
 <br> <br>
 # Education
