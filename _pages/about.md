@@ -31,6 +31,7 @@ I completed my Undergraduate Degree in Electronics Engineering from the Universi
 * <strong> Softwares: </strong> MATLAB, LTSpice XVII, Proteus, Eagle <br>
 * <strong> Other Tools: </strong> AutoCAD, FDMEE, AutoSys, AccuRev, MS Excel <br>
 * <strong> Soft Skills: </strong> Leadership, Teamwork, Communication skills, Adaptability, Time management <br>
+<br>
 
 # Interests & Hobbies
 ----
