@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 -----
-<img align="left" height="100" width="100" src="../images/BuildingSecurity1.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/BuildingSecurity2.jpg" style="padding-right:15px">
 
 **GSM based security system for building entry management**
 #### August 2018 - April 2019 | Mumbai, India
