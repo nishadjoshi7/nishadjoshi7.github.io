@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Nishad S. Joshi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
