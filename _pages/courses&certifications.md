@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 -----
-<img align="left" height="100" width="100" src="../images/DesignThinking.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/DesignThinking1.jpg" style="padding-right:15px">
 
 **Design Thinking for Innovation - Coursera**
 #### September 2020 | Mumbai, India
@@ -15,7 +15,7 @@ author_profile: true
 *	
 
 -----
-<img align="left" height="100" width="100" src="../images/ProductDevelopment.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/ProductDevelopment1.jpg" style="padding-right:15px">
 
 **New Product Development For Small Businesses and Start-Ups - Coursera**
 #### September 2020 | Mumbai, India
@@ -33,7 +33,7 @@ author_profile: true
 *	
 
 -----
-<img align="left" height="100" width="100" src="../images/AI.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/AI1.jpg" style="padding-right:15px">
 
 **AI For Everyone - Coursera**
 #### August 2019 | Mumbai, India
@@ -42,7 +42,7 @@ author_profile: true
 *	
 
 -----
-<img align="left" height="100" width="100" src="../images/BusinessAnalytics.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/BusinessAnalytics1.jpg" style="padding-right:15px">
 
 **Business Analytics - Interdisciplinary Course**
 #### January 2018 - June 2018 | Mumbai, India
