@@ -11,8 +11,9 @@ author_profile: true
 #### September 2020 | Mumbai, India
 
 -----
-*	This course focused on how trending technologies like Artificial Intelligence, Additive Manufacturing, Blockchain, etc. are changing the face of today's business operations
+* This course focused on how trending technologies like Artificial Intelligence, Additive Manufacturing, Blockchain, etc. are changing the face of today's business operations
 * It also explained how incumbents can achieve Ambidexterity - a balance between exploitation of existing legacy processes and exploration of new emerging technologies in order to not only sustain but also excel in this fast-paced revolution of Industry 4.0
+* This courses have helped in shaping my mindset and guided me to take a step towards preparing me for my long term goal of playing a pivotal role in a top-notch organization, preferably my own
 
 -----
 <img align="left" height="100" width="100" src="../images/ProductDevelopment1.jpg" style="padding-right:15px">
@@ -30,6 +31,7 @@ author_profile: true
 #### August 2020 | Mumbai, India
 
 -----
+*	The primary focus of this courses was on how incumbents and even newly emerging startups can adopt simple but effective business strategies to prosper in modern-day business
 *	This course guided me on what are the most powerful questions one should ask while solving a business problem so as to get a clear picture of the task in hand and to explore the possibilities rather than being stuck on the constraints
 * The coursework also covered topics that explained the importance of design thinking tools like Visualization, Storytelling, Mind Mapping, and Learning Launch which should be used while following the iterative process of design thinking in order to create effective and innovative solutions
 
