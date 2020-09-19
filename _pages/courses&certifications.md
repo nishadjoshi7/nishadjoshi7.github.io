@@ -5,7 +5,7 @@ excerpt: "Courses & Certifications"
 author_profile: true
 ---
 -----
-<img align="left" height="100" width="100" src="../images/DigitalTransformation.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/DigitalTransformation1.jpg" style="padding-right:15px">
 
 **Digital Transformation - Leading the Modern Day Business**
 #### September 2020 | Mumbai, India
@@ -24,7 +24,7 @@ author_profile: true
 *	
 
 -----
-<img align="left" height="100" width="100" src="../images/ProductDevelopment2.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/ProductDevelopment3.jpg" style="padding-right:15px">
 
 **New Product Development For Small Businesses and Start-Ups (Guided Project Course)**
 #### September 2020 | Mumbai, India
