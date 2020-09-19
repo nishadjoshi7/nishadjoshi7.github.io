@@ -15,19 +15,19 @@ author_profile: true
 
 
 -----
-<img align="left" height="100" width="100" src="../images/DesignThinking1.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/ProductDevelopment1.jpg" style="padding-right:15px">
 
-**Design Thinking for Innovation**
+**New Product Development For Small Businesses and Start-Ups (Guided Project)**
 #### September 2020 | Mumbai, India
 
 -----
 *	
 
 -----
-<img align="left" height="100" width="100" src="../images/ProductDevelopment1.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/DesignThinking1.jpg" style="padding-right:15px">
 
-**New Product Development For Small Businesses and Start-Ups (Guided Project Course)**
-#### September 2020 | Mumbai, India
+**Design Thinking for Innovation**
+#### August 2020 | Mumbai, India
 
 -----
 *	
@@ -44,7 +44,7 @@ author_profile: true
 -----
 <img align="left" height="100" width="100" src="../images/AI2.jpg" style="padding-right:15px">
 
-**AI For Everyone - Coursera**
+**Artificial Intelligence For Everyone*
 #### August 2019 | Mumbai, India
 
 -----
