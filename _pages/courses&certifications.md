@@ -8,8 +8,7 @@ author_profile: true
 <img align="left" height="100" width="100" src="../images/DigitalTransformation2.png" style="padding-right:15px">
 
 **Digital Transformation - Leading the Modern Day Business**
-#### September 2020 | Mumbai, India
-#### [Course Certificate](https://www.coursera.org/account/accomplishments/verify/T8GJNQ7BNXB8)
+#### September 2020 | Mumbai, India | [Course Certificate](https://www.coursera.org/account/accomplishments/verify/T8GJNQ7BNXB8)
 
 -----
 * Derived an insight on how trending technologies like Artificial Intelligence, Additive Manufacturing, Blockchain, Big Data, Deep Learning etc. are changing the face of today's business operations
