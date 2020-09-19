@@ -13,7 +13,7 @@ author_profile: true
 -----
 * This course focused on how trending technologies like Artificial Intelligence, Additive Manufacturing, Blockchain, etc. are changing the face of today's business operations
 * It also explained how incumbents can achieve Ambidexterity - a balance between exploitation of existing legacy processes and exploration of new emerging technologies in order to not only sustain but also excel in this fast-paced revolution of Industry 4.0
-* This courses have helped in shaping my mindset and guided me to take a step towards preparing me for my long term goal of playing a pivotal role in a top-notch organization, preferably my own
+* The takeaways from this course have helped in shaping my mindset and guided me to take a step towards preparing me for my long term goal of playing a pivotal role in a top-notch organization
 
 -----
 <img align="left" height="100" width="100" src="../images/ProductDevelopment1.jpg" style="padding-right:15px">
