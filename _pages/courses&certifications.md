@@ -5,7 +5,7 @@ excerpt: "Courses & Certifications"
 author_profile: true
 ---
 -----
-<img align="left" height="100" width="100" src="../images/DigitalTransformation2.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/DigitalTransformation3.png" style="padding-right:15px">
 <img align="right" height="100" width="100" src="../images/BCG.png" style="padding-right:15px">
 
 **Digital Transformation - Leading the Modern Day Business**
@@ -67,7 +67,7 @@ author_profile: true
 
 -----
 <img align="left" height="100" width="100" src="../images/BusinessAnalytics1.jpg" style="padding-right:15px">
-<img align="right" height="100" width="100" src="../images/KJSCE.png" style="padding-right:15px">
+<img align="right" height="100" width="100" src="../images/somaiya.png" style="padding-right:15px">
 
 **Business Analytics (Interdisciplinary Course)**
 #### January 2018 - June 2018 | Mumbai, India
