@@ -21,7 +21,7 @@ author_profile: true
 <img align="left" height="100" width="100" src="../images/ProductDevelopment1.jpg" style="padding-right:15px">
 <img align="right" height="100" width="100" src="../images/Coursera.png" style="padding-right:15px">
 
-**New Product Development For Small Businesses and Start-Ups (Guided Project)**
+**New Product Development For Small Businesses and Start-Ups**
 #### September 2020 | Mumbai, India
 
 -----
@@ -51,7 +51,8 @@ author_profile: true
 #### September 2019 | Mumbai, India
 
 -----
-*	Learned the basics of Python programming
+*	Learned the basics of Python programming and developed multiple codes
+* Secured a cumulative grade of 98.35% for the written Python programs and assignments
 * [Course Certificate](https://www.coursera.org/account/accomplishments/verify/2EBEPHACYT99)
 
 -----
@@ -62,7 +63,9 @@ author_profile: true
 #### August 2019 | Mumbai, India
 
 -----
-*	
+*	Understood the basics of Artificial Intelligence technology and its impact on the modern world 
+* Learned the workflow of Machine Learning and Data Science projects and its current limitations
+* Completed the case studies of real world Artificial Intelligence applications like Speech Recognition and Self Driving Car
 * [Course Certificate](https://www.coursera.org/account/accomplishments/verify/RRUZZ38X2EPR)
 
 -----
