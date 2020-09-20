@@ -66,7 +66,7 @@ author_profile: true
 * [Course Certificate](https://www.coursera.org/account/accomplishments/verify/HRRPUGSBG6LM)
 
 -----
-<img align="left" height="100" width="100" src="../images/BusinessAnalytics1.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/BA.png" style="padding-right:15px">
 <img align="right" height="100" width="100" src="../images/somaiya.png" style="padding-right:15px">
 
 **Business Analytics (Interdisciplinary Course)**
