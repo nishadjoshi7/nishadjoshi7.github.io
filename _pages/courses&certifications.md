@@ -6,8 +6,9 @@ author_profile: true
 ---
 -----
 <img align="left" height="100" width="100" src="../images/DigitalTransformation2.png" style="padding-right:15px">
+<img align="right" height="100" width="100" src="../images/DigitalTransformation2.png" style="padding-right:15px">
 
-[**Digital Transformation - Leading the Modern Day Business**](https://www.coursera.org/account/accomplishments/verify/T8GJNQ7BNXB8)
+**Digital Transformation - Leading the Modern Day Business**
 #### September 2020 | Mumbai, India
 
 -----
@@ -24,7 +25,7 @@ author_profile: true
 
 -----
 *	Learned about idea generation and the evaluation processes in product development by using an idea generation model and online resources like Google Trends and Amazon
-* Used methods to evaluate your product concept through market segmentation, growth potential, and the competition to the product
+* Used methods to evaluate a product concept through market segmentation, growth potential, and the competition to the product
 * Overall, I was able to create a full retrospective plan for the product launch and understand how and why the specifications are done
 * [Course Certificate](https://www.coursera.org/account/accomplishments/verify/7ADEHMR9CA5Y)
 
@@ -35,7 +36,7 @@ author_profile: true
 #### August 2020 | Mumbai, India
 
 -----
-*	The primary focus of this courses was on how incumbents and even newly emerging startups can adopt simple but effective business strategies to prosper in modern-day business
+*	The primary focus of this courses was on how organizations can adopt simple but effective business strategies to prosper in modern-day business
 *	This course guided me on what are the most powerful questions one should ask while solving a business problem so as to get a clear picture of the task in hand and to explore the possibilities rather than being stuck on the constraints
 * The coursework also covered topics that explained the importance of design thinking tools like Visualization, Storytelling, Mind Mapping, and Learning Launch which should be used while following the iterative process of design thinking in order to create effective and innovative solutions
 * [Course Certificate](https://www.coursera.org/account/accomplishments/verify/HRRPUGSBG6LM)
@@ -48,7 +49,7 @@ author_profile: true
 
 -----
 *	Learned the basics of Python programming
-*Course Certificate*:
+* [Course Certificate](https://www.coursera.org/account/accomplishments/verify/HRRPUGSBG6LM)
 
 -----
 <img align="left" height="100" width="100" src="../images/AI2.jpg" style="padding-right:15px">
@@ -58,7 +59,7 @@ author_profile: true
 
 -----
 *	
-* Course Certificate*:
+* [Course Certificate](https://www.coursera.org/account/accomplishments/verify/HRRPUGSBG6LM)
 
 -----
 <img align="left" height="100" width="100" src="../images/BusinessAnalytics1.jpg" style="padding-right:15px">
