@@ -52,7 +52,7 @@ author_profile: true
 
 -----
 *	Learned the basics of Python programming
-* [Course Certificate](https://www.coursera.org/account/accomplishments/verify/HRRPUGSBG6LM)
+* [Course Certificate](https://www.coursera.org/account/accomplishments/verify/2EBEPHACYT99)
 
 -----
 <img align="left" height="100" width="100" src="../images/AI4.png" style="padding-right:15px">
@@ -63,7 +63,7 @@ author_profile: true
 
 -----
 *	
-* [Course Certificate](https://www.coursera.org/account/accomplishments/verify/HRRPUGSBG6LM)
+* [Course Certificate](https://www.coursera.org/account/accomplishments/verify/RRUZZ38X2EPR)
 
 -----
 <img align="left" height="100" width="100" src="../images/BA.png" style="padding-right:15px">
