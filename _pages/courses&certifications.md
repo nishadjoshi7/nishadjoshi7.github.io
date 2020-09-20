@@ -55,7 +55,7 @@ author_profile: true
 * [Course Certificate](https://www.coursera.org/account/accomplishments/verify/HRRPUGSBG6LM)
 
 -----
-<img align="left" height="100" width="100" src="../images/AI2.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/AI.png" style="padding-right:15px">
 <img align="right" height="100" width="100" src="../images/Deeplearning.png" style="padding-right:15px">
 
 **Artificial Intelligence For Everyone**
